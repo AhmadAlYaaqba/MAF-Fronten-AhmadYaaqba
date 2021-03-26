@@ -4,7 +4,7 @@ module.exports = {
   theme: {
     extend: {
       backgroundImage: (theme) => ({
-        'hero-landing': "url('/images/heroImage.jpg')",
+        'hero-landing': "url('/images/heroImage-compressed.jpg')",
         'hero-gradient': 'linear-gradient(180deg, rgba(1, 22, 39, 0) 0%, #011627 76.64%, #011627 100%);',
       }),
       backgroundPosition: {
